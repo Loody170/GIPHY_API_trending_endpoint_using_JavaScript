@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  header input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    width: 200px;
+  }
+  
+  header button {
+    padding: 8px 16px;
+    font-size: 14px;
+    margin-left: 10px;
+    border: none;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  header button:hover {
+    background-color: #45a049;
+  }
+  
+  #searchResults{
+    margin: 20px;
+  }
